@@ -1,8 +1,8 @@
-## Ejercicio 1
+## Ejerciciosss
 * Creá los siguientes usuarios: **uno** y **dos**. 
 * Creá una carpeta compartida para cada usuario, la cual, sólo pueda ser accedida por su dueño. 
 
-## Ejercicio 2
+## Ejerciciossss
 
 La pyme ficticia "El Trigal" elabora diferentes tipos de panificados. Su personal es pequeño y los mismos comparten carpetas según su área de desempeño: 
 
