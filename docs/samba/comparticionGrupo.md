@@ -1,6 +1,6 @@
 En otras ocasiones, tal vez resulte práctico **compartir una carpeta entre los usuarios que pertenecen a un grupo determinado**. 
 
-## Creando la carpeta a compartir
+## Creando la carpeta a compartir bbbbbb
 Debemos crear la carpeta en cualquier lugar (p.e. dentro de la carpeta `/opt`)
 
 ```apache
